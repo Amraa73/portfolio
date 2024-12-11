@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/amraa73.github.io/portfolio/static/css/main.9e4a6de6.css",
+    "main.js": "/amraa73.github.io/portfolio/static/js/main.c583031e.js",
+    "static/js/488.9c92ff38.chunk.js": "/amraa73.github.io/portfolio/static/js/488.9c92ff38.chunk.js",
+    "static/media/service.jpg": "/amraa73.github.io/portfolio/static/media/service.35143c72487ac4b3696b.jpg",
+    "static/media/profile.jpg": "/amraa73.github.io/portfolio/static/media/profile.3912441340b118acff56.jpg",
+    "index.html": "/amraa73.github.io/portfolio/index.html",
+    "main.9e4a6de6.css.map": "/amraa73.github.io/portfolio/static/css/main.9e4a6de6.css.map",
+    "main.c583031e.js.map": "/amraa73.github.io/portfolio/static/js/main.c583031e.js.map",
+    "488.9c92ff38.chunk.js.map": "/amraa73.github.io/portfolio/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4a6de6.css",
+    "static/js/main.c583031e.js"
+  ]
+}
